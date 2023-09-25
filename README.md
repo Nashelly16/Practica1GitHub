@@ -15,4 +15,4 @@
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificiados
 | git diff | Muestra las diferencias de archivo que no han sido preparadas |
-| --- | --- |
+| Comando | Descripción |
